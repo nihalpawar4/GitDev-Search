@@ -29,4 +29,4 @@ To toggle dark mode, click the toggle switch located in the top right corner of 
 The GitHub API was used to retrieve user profile information. The toggle switch for dark mode was implemented using JavaScript.
 Thanks for visiting my profile 
 
-## With LOVE - NIHAL PAWAR
+## With LOVE | NIHAL PAWAR
